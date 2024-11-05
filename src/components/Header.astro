@@ -6,7 +6,7 @@ const pathname = removeTrailingSlash(Astro.url.pathname);
 ---
 
 <header class="z-40 flex w-full flex-col gap-2 md:flex-row md:justify-between">
-  <a href={`mailto:${presentation.mail}`} class="hover:text-neutral-100"
+  <a href={`mailto:${presentation.mail}`} class="hover:text-neutral-950"
     >{presentation.mail}</a
   >
 
@@ -17,7 +17,7 @@ const pathname = removeTrailingSlash(Astro.url.pathname);
           href="/"
           class:list={{
             ["hover:text-neutral-100"]: true,
-            ["text-neutral-100"]: pathname === "/",
+            ["text-neutral-950"]: pathname === "/",
           }}>Home</a
         >
       </li>
@@ -27,10 +27,20 @@ const pathname = removeTrailingSlash(Astro.url.pathname);
           href="/posts"
           class:list={{
             ["hover:text-neutral-100"]: true,
-            ["text-neutral-100"]: pathname === "/posts",
+            ["text-neutral-950"]: pathname === "/posts",
           }}>Posts</a
         >
       </li>
+      <!-- <li>/</li> -->
+      <!-- <li>
+        <a
+          href="/meetlist"
+          class:list={{
+            ["hover:text-neutral-100"]: true,
+            ["text-neutral-100"]: pathname === "/meetlist",
+          }}>Meet List</a
+        >
+      </li> -->
     </ul>
   </nav>
 </header>

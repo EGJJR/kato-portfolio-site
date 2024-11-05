@@ -7,29 +7,32 @@ type Presentation = {
   mail: string;
   title: string;
   description: string;
+  bio: string;
   socials: Social[];
   profile?: string;
 };
 
 const presentation: Presentation = {
-  mail: "maxencewolff.pro@gmail.com",
-  title: "Hi, I’m Maxence 👋",
-  // profile: "/profile.webp",
+  mail: "Email me",
+  title: "Hi, I’m Kato",
+  //profile: "/profile.jpeg",
   description:
-    "Bonjour, i'm a *french frontend developer* with over *3 years* of web experience. I am currently working with *NextJS and Typescript*. Outside of work I complete my pokemon card collection and learning TypeScript.",
-  socials: [
+    "An intensely ambitious student with a vision of entering the private equity and holding company space. I have a strong bias for action, prioritize first-principles thinking, simplified answers when analyzing complex problems, focus on asking the right questions, and get things done. Additionally, I read extensively: biographies, history, annual letters, psychology, and finance blogs.",
+  bio: 
+    "",
+    socials: [
     {
       label: "X",
-      link: "https://twitter.com/itsstormzz_",
+      link: "https://x.com/kgmutebi",
     },
     {
-      label: "Bento",
-      link: "https://bento.me/m-wolff",
+      label: "LinkedIn",
+      link: "https://www.linkedin.com/in/katogoloobamutebi/",
     },
-    {
-      label: "Github",
-      link: "https://github.com/MaeWolff",
-    },
+    // {
+    //   label: "Github",
+    //   link: "https://github.com/MaeWolff",
+    // },
   ],
 };
 
