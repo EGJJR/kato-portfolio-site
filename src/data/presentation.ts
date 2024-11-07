@@ -13,7 +13,7 @@ type Presentation = {
 };
 
 const presentation: Presentation = {
-  mail: "Email me",
+  mail: "katomutebig@gmail.com",
   title: "Hi, I’m Kato",
   //profile: "/profile.jpeg",
   description:
@@ -31,7 +31,7 @@ const presentation: Presentation = {
     },
     // {
     //   label: "Github",
-    //   link: "https://github.com/MaeWolff",
+    //   link: "",
     // },
   ],
 };

@@ -7,15 +7,15 @@ isPublish: true
 ## The Surface Area of Serendipity
 
 
-<Image
-  src="/src/content/posts/Screenshot 2024-11-05 at 2.36.51 PM.png"
+<!-- <Image
+  src="/content/posts/illustration-seredipity.png"
   alt="Illustration"
   width={1080}
   height={800}
   className="bg-secondary"
   caption=""
   contained
-/>
+/> -->
 
 In 1755, a devastating hurricane struck the Caribbean island of St. Croix. In its aftermath, a
 young, orphaned clerk wrote such a vivid description of the disaster that local businessmen took
