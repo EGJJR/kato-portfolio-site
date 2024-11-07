@@ -4,18 +4,20 @@ publishedAt: 2024-10-28
 description: "The journey from obscurity to success."
 isPublish: true
 ---
-## The Surface Area of Serendipity
+## 
 
 
-<!-- <Image
-  src="/content/posts/illustration-seredipity.png"
-  alt="Illustration"
+ <Image
+  src="https://pbs.twimg.com/media/Ga-IKJnWMAAhlMW?format=jpg&name=large"
+  alt="Illustration 1"
   width={1080}
   height={800}
   className="bg-secondary"
   caption=""
   contained
-/> -->
+/>
+
+
 
 In 1755, a devastating hurricane struck the Caribbean island of St. Croix. In its aftermath, a
 young, orphaned clerk wrote such a vivid description of the disaster that local businessmen took
