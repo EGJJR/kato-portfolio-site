@@ -8,8 +8,8 @@ isPublish: true
 
 <!-- 
  <Image
-  src=""
-  alt=""
+  src="https://pbs.twimg.com/media/Gc1_TGWW0AApn_0?format=jpg&name=medium"
+  alt="Swimmers"
   width={1080}
   height={800}
   className="bg-secondary"
