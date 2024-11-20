@@ -17,9 +17,11 @@ isPublish: true
   contained
 />
 
+
+
 "When it comes to competition, being one of the best is not good enough. Do you really want to
 plan for a future in which you might have to fight with somebody who is just as good as you are?
-I wouldn't." –Jeff Bezos
+I wouldn't." – Jeff Bezos
 
 ###
 
