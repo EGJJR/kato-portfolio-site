@@ -1,1 +1,1 @@
-export const SITE_URL = "https://galooba-mutebi.com/";
+export const SITE_URL = "https://golooba-mutebi.com/";

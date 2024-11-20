@@ -8,16 +8,16 @@ type Props = HeadTags;
 
 const { title, description, noindex, og } = Astro.props;
 
-const DEFAULT_TITLE_PAGE = "Kato Galooba - Mutebi";
+const DEFAULT_TITLE_PAGE = "Kato Golooba - Mutebi";
 const DEFAULT_DESCRIPTION_PAGE =
-  "Kato Galooba - Mutebi - Student in Private Equity, Capital Allocation & Credit Analysis.";
+  "Kato Golooba - Mutebi - Student in Private Equity, Capital Allocation & Credit Analysis.";
 const DEFAULT_URL_SITE = SITE_URL;
 
 const openGraph = {
   title: title || og?.title || DEFAULT_TITLE_PAGE,
   type: og?.type || "website",
   image: og?.image || "/openGraph-image.jpg",
-  alt: og?.alt || "kato galooba mutebi - student in private equity, capital allocator & aredit analysis",
+  alt: og?.alt || "kato golooba mutebi - student in private equity, capital allocator & aredit analysis",
   url: DEFAULT_URL_SITE,
   description: og?.description || DEFAULT_DESCRIPTION_PAGE,
 };

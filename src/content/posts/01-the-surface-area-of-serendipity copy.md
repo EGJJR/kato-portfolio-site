@@ -1,7 +1,7 @@
 ---
 title: "The Surface Area of Serendipity"
 publishedAt: 2024-10-28
-description: "The journey from obscurity to success."
+description: ""
 isPublish: true
 ---
 ## 
