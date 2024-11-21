@@ -17,7 +17,7 @@ const presentation: Presentation = {
   title: "Hi, I’m Kato",
   //profile: "/profile.jpeg",
   description:
-    "An intensely ambitious student with a vision of entering the private equity and holding company space. I have a strong bias for action, prioritize first-principles thinking, simplified answers when analyzing complex problems, focus on asking the right questions, and get things done. Additionally, I read extensively: biographies, history, annual letters, psychology, and finance blogs.",
+    "An intensely ambitious student with a vision of entering the private equity and holding company space. I have a strong bias for action, prioritize first-principles thinking and simplified answers when analyzing complex problems, and focus on asking the right questions. Additionally, I read extensively: biographies, history, annual letters, psychology, and finance blogs.",
   bio: 
     "",
     socials: [
