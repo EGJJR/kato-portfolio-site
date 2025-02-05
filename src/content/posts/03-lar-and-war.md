@@ -20,8 +20,6 @@ isPublish: true
 Networking is the art and science of building interconnected meaningful relationships. Here, we will
 cover the science aspect of it.
 
-###
-
 The architecture of computer networks is a great analogy for understanding human relationships.
 With it, we can understand the nature of our social connections, how they function at diﬀerent
 levels, and the intentionality—or lack thereof—behind the act of networking and its natural
@@ -61,8 +59,6 @@ Brought together, the two create a powerful network eﬀect: the presence of mor
 opportunity for more WARs. These, in turn, feed back into the original network, increasing its
 density and reach. A well-functioning network is not static; it evolves by weaving LARs and WARs
 into a complex yet harmonious system of interconnected relationships.
-
-###
 
 For example, consider a workplace circle built around shared professional objectives. Within this
 LAR, individuals will connect with other professionals through conferences or joint ventures and
